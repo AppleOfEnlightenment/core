@@ -191,12 +191,12 @@ msgstr ""
 msgid "Loading list of the keys"
 msgstr "A kulcsok listájának betöltése"
 
-#: src/components/LayoutDashboard/LayoutDashboard.tsx:150
-#: src/components/LayoutDashboard/LayoutDashboard.tsx:169
+#: src/components/LayoutDashboard/LayoutDashboard.tsx:173
+#: src/components/LayoutDashboard/LayoutDashboard.tsx:192
 msgid "Log Out"
 msgstr "Kijelentkezés"
 
-#: src/components/LayoutDashboard/LayoutDashboard.tsx:168
+#: src/components/LayoutDashboard/LayoutDashboard.tsx:191
 msgid "Logout"
 msgstr "Kijelentkezés"
 
@@ -402,7 +402,7 @@ msgstr "Erősen javasolt a jelszó beállítása, hogy a kulcsok védve legyenek
 msgid "Value seems high"
 msgstr "Az érték túl magasnak tűnik"
 
-#: src/components/LayoutDashboard/LayoutDashboard.tsx:116
+#: src/components/LayoutDashboard/LayoutDashboard.tsx:130
 #: src/components/Settings/SettingsApp.tsx:81
 msgid "Wallet"
 msgstr "Tárca"

@@ -191,12 +191,12 @@ msgstr "Läser in information"
 msgid "Loading list of the keys"
 msgstr "Läser in en lista över nycklarna"
 
-#: src/components/LayoutDashboard/LayoutDashboard.tsx:150
-#: src/components/LayoutDashboard/LayoutDashboard.tsx:169
+#: src/components/LayoutDashboard/LayoutDashboard.tsx:173
+#: src/components/LayoutDashboard/LayoutDashboard.tsx:192
 msgid "Log Out"
 msgstr "Logga ut"
 
-#: src/components/LayoutDashboard/LayoutDashboard.tsx:168
+#: src/components/LayoutDashboard/LayoutDashboard.tsx:191
 msgid "Logout"
 msgstr "Logga ut"
 
@@ -402,7 +402,7 @@ msgstr "Att använda en lösenfras rekommenderas starkt för att skydda dina nyc
 msgid "Value seems high"
 msgstr "Värdet verkar högt"
 
-#: src/components/LayoutDashboard/LayoutDashboard.tsx:116
+#: src/components/LayoutDashboard/LayoutDashboard.tsx:130
 #: src/components/Settings/SettingsApp.tsx:81
 msgid "Wallet"
 msgstr "Plånbok"

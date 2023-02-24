@@ -191,12 +191,12 @@ msgstr "Завантаження подробиць"
 msgid "Loading list of the keys"
 msgstr "Завантаження списку ключів"
 
-#: src/components/LayoutDashboard/LayoutDashboard.tsx:150
-#: src/components/LayoutDashboard/LayoutDashboard.tsx:169
+#: src/components/LayoutDashboard/LayoutDashboard.tsx:173
+#: src/components/LayoutDashboard/LayoutDashboard.tsx:192
 msgid "Log Out"
 msgstr "Вийти"
 
-#: src/components/LayoutDashboard/LayoutDashboard.tsx:168
+#: src/components/LayoutDashboard/LayoutDashboard.tsx:191
 msgid "Logout"
 msgstr "Вийти"
 
@@ -402,7 +402,7 @@ msgstr "Рекомендовано використовувати пароль �
 msgid "Value seems high"
 msgstr "Значення здається високим"
 
-#: src/components/LayoutDashboard/LayoutDashboard.tsx:116
+#: src/components/LayoutDashboard/LayoutDashboard.tsx:130
 #: src/components/Settings/SettingsApp.tsx:81
 msgid "Wallet"
 msgstr "Гаманець"

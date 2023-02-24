@@ -191,12 +191,12 @@ msgstr ""
 msgid "Loading list of the keys"
 msgstr ""
 
-#: src/components/LayoutDashboard/LayoutDashboard.tsx:150
-#: src/components/LayoutDashboard/LayoutDashboard.tsx:169
+#: src/components/LayoutDashboard/LayoutDashboard.tsx:173
+#: src/components/LayoutDashboard/LayoutDashboard.tsx:192
 msgid "Log Out"
 msgstr ""
 
-#: src/components/LayoutDashboard/LayoutDashboard.tsx:168
+#: src/components/LayoutDashboard/LayoutDashboard.tsx:191
 msgid "Logout"
 msgstr ""
 
@@ -402,7 +402,7 @@ msgstr ""
 msgid "Value seems high"
 msgstr "Vlera duket e lartë"
 
-#: src/components/LayoutDashboard/LayoutDashboard.tsx:116
+#: src/components/LayoutDashboard/LayoutDashboard.tsx:130
 #: src/components/Settings/SettingsApp.tsx:81
 msgid "Wallet"
 msgstr ""

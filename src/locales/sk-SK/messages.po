@@ -191,12 +191,12 @@ msgstr "Načítavanie podrobností"
 msgid "Loading list of the keys"
 msgstr "Načítavanie zoznamu kľúčov"
 
-#: src/components/LayoutDashboard/LayoutDashboard.tsx:150
-#: src/components/LayoutDashboard/LayoutDashboard.tsx:169
+#: src/components/LayoutDashboard/LayoutDashboard.tsx:173
+#: src/components/LayoutDashboard/LayoutDashboard.tsx:192
 msgid "Log Out"
 msgstr "Odhlásiť sa"
 
-#: src/components/LayoutDashboard/LayoutDashboard.tsx:168
+#: src/components/LayoutDashboard/LayoutDashboard.tsx:191
 msgid "Logout"
 msgstr "Odhlásiť"
 
@@ -402,7 +402,7 @@ msgstr "Na ochranu vašich kľúčov sa dôrazne odporúča používať prístup
 msgid "Value seems high"
 msgstr "Hodnota sa zdá byť vysoká"
 
-#: src/components/LayoutDashboard/LayoutDashboard.tsx:116
+#: src/components/LayoutDashboard/LayoutDashboard.tsx:130
 #: src/components/Settings/SettingsApp.tsx:81
 msgid "Wallet"
 msgstr "Peňaženka"

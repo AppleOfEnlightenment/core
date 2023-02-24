@@ -191,12 +191,12 @@ msgstr ""
 msgid "Loading list of the keys"
 msgstr "키 목록 로드 중"
 
-#: src/components/LayoutDashboard/LayoutDashboard.tsx:150
-#: src/components/LayoutDashboard/LayoutDashboard.tsx:169
+#: src/components/LayoutDashboard/LayoutDashboard.tsx:173
+#: src/components/LayoutDashboard/LayoutDashboard.tsx:192
 msgid "Log Out"
 msgstr "로그아웃"
 
-#: src/components/LayoutDashboard/LayoutDashboard.tsx:168
+#: src/components/LayoutDashboard/LayoutDashboard.tsx:191
 msgid "Logout"
 msgstr "로그아웃"
 
@@ -402,7 +402,7 @@ msgstr "키를 보호하려면 암호를 사용하는 것이 좋습니다. 암�
 msgid "Value seems high"
 msgstr "값이 높음"
 
-#: src/components/LayoutDashboard/LayoutDashboard.tsx:116
+#: src/components/LayoutDashboard/LayoutDashboard.tsx:130
 #: src/components/Settings/SettingsApp.tsx:81
 msgid "Wallet"
 msgstr "내 지갑"
